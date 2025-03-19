@@ -1,3 +1,5 @@
+<!--Function to fetch data-->
+
 <?php
 include '../connection.php'; 
 
